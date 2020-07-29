@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089613021424",
+    "firebase_url": "https://flash-app-59e54.firebaseio.com",
+    "project_id": "flash-app-59e54",
+    "storage_bucket": "flash-app-59e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089613021424:android:1e74c96d9cbf60c4abc235",
+        "android_client_info": {
+          "package_name": "com.faisal.flash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089613021424-0o45i0ruh9vhj6j10463jhhtcqkfqnqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVqBYryzV8QWNbQoU4SzyPk8J8-gWIfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089613021424-0o45i0ruh9vhj6j10463jhhtcqkfqnqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
